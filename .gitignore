@@ -1,0 +1,17 @@
+.ipynb_checkpoints
+viz/.ipynb_checkpoints/
+viz/w2/.ipynb_checkpoints/
+data/2016.csv
+data/201601-citibike-tripdata.csv
+data/201602-citibike-tripdata.csv
+data/201603-citibike-tripdata.csv
+data/201604-citibike-tripdata.csv
+data/201605-citibike-tripdata.csv
+data/201606-citibike-tripdata.csv
+data/201607-citibike-tripdata.csv
+data/201608-citibike-tripdata.csv
+data/201609-citibike-tripdata.csv
+data/201610-citibike-tripdata.csv
+data/201611-citibike-tripdata.csv
+data/201612-citibike-tripdata.csv
+data/citibike_2016_trip_duration_start.csv
